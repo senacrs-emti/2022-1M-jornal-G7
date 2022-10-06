@@ -10,3 +10,8 @@ header{
 header h1{
     color: gray;
 }
+header div{
+    position: relative;
+    left: 35%;
+    margin-top: 1%;
+}
