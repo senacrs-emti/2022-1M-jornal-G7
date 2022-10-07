@@ -1,0 +1,41 @@
+*{
+    border: 0%;
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    padding: 10px;
+    background-color: rgb(44, 46, 44);
+}
+header img{
+    position: relative;
+    left: 2%;
+    width: 6%;
+    height: 6%;
+    margin-right: 35px;
+}
+header h1{
+    font-size: 50px;
+    margin-top: 7px;
+    position: relative;
+    color: gray;
+}
+header div{
+    padding-top: 5px;
+    position: relative;
+    left: 4%;
+    margin-top: 20px;
+}
+header div input{
+    border-radius: 25px;
+    min-width: 400px;
+    width: auto;
+    height: 40px;
+}
+header div a{
+    font-size: 25px;
+    padding: 5px;
+    background-color: red;
+    color: white;
+    margin-left: 30px;
+}
