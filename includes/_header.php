@@ -12,10 +12,11 @@
   </head>
   <body class="container-fluid">
     <header class="row">
-        <h1>MUNDO ECONÔMICO</h1>
+      <img src="./imgs/pngwing.com.png" alt="">
+      <h1>MUNDO ECONÔMICO</h1>
         <div>
             <input class="col-lg-6" type="text">
-            <a href="">LOG IN</a>
+            <a href="">ENTRAR</a>
         </div>
     </header>
 

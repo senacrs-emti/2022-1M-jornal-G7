@@ -4,5 +4,5 @@
 
 
 <?php
-    include_once './includes/_foter.php';
+    include_once './includes/_footer.php';
 ?>
