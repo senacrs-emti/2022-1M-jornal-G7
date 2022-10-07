@@ -20,4 +20,7 @@
         </div>
     </header>
 
+    <?php
+    include_once './index.php';
+
     
