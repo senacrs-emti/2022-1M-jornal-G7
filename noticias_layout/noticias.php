@@ -19,6 +19,13 @@
         <h5>Data:27/07/2006<h5>
         <hr>
         <img src="..." class="img-fluid" alt="...">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim a massa auctor accumsan. Ut dui nibh, ullamcorper nec feugiat a, eleifend sed eros. Suspendisse ultricies quam ut risus vehicula maximus. Suspendisse sed posuere massa. Ut sed interdum mauris. Sed scelerisque consectetur dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec nec mi ligula. Praesent at dolor eu urna bibendum dignissim a nec felis.</p>
+        <img src="..." class="rounded float-end" alt="...">
+        <p>Praesent at eros quis mauris faucibus tincidunt dictum quis libero. Nullam sit amet lectus et massa luctus ultrices. Etiam efficitur feugiat neque. Nunc arcu quam, lacinia sed augue eget, pharetra condimentum neque. Praesent tincidunt fermentum metus a eleifend. Quisque sollicitudin ornare ipsum sed consectetur. Donec non pharetra neque, vitae maximus leo. Mauris tristique et est a semper. In aliquam felis eu tortor consectetur pulvinar. Nullam aliquet neque vel bibendum elementum. Nunc tincidunt malesuada consectetur. Integer magna dolor, auctor et lectus et, iaculis condimentum ante. Pellentesque nisl purus, aliquam ut lorem malesuada, molestie luctus orci. Donec commodo facilisis aliquam. Nulla mollis placerat augue, ut elementum leo dapibus at.</p>
+        <img src="..." class="img-fluid" alt="...">
+        <hr>
+        
+
 
     </main>
     <script src="script.js"></script>
