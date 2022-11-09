@@ -15,15 +15,15 @@
     
     <main>
         <div>
-            <h1 class="text-center">Título Chamativo<h1>
+            <h1 class="text-center"><b>Título Chamativo</b><h1>
             <h3 class="text-center">Sub. Título<h3>
             <h6>Data:27/07/2006<h5>
             <hr>
-            <img class="img_N" src="https://www.quartzolit.weber/files/br/styles/768x432/public/2020-05/cinza%20%C3%A1rtico_6.jpg?itok=QN5kCyqs" class="img-fluid" alt="...">
-            <img src="https://www.ladrilar.com.br/wp-content/uploads/2020/12/cinza-escuro.png" class="rounded float-end" alt="...">
+            <img class="img_N" src="..." class="img-fluid" alt="...">
+            <img src="..." class="rounded float-end" alt="...">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam tempore sequi perferendis consequatur perspiciatis delectus iure ducimus blanditiis iste omnis suscipit voluptatem facere eaque earum ut, ea debitis repudiandae! Assumenda! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus, inventore deleniti provident atque rem ex aliquam perferendis temporibus, doloremque delectus placeat quis dolore dicta saepe voluptatem accusantium dolorum architecto iste!Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe doloribus ea quidem magnam maiores iure. Voluptas dolores architecto porro eum accusantium dolorum sint, quo nobis voluptatum adipisci similique unde laboriosam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab excepturi aliquid velit dolor, esse nemo commodi recusandae quam aliquam molestiae perferendis voluptatum nesciunt iusto iste officia aut adipisci possimus. Odio! Lorem ipsum dolor sit amet consectetur adipisicing.
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis molestias accusamus officia blanditiis tempora reiciendis quasi, nulla error quo! Saepe eius obcaecati laborum magnam itaque tempore perspiciatis voluptatum minus quasi?Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae possimus atque, quae facere quo soluta obcaecati mollitia est corporis delectus repellendus sint consequatur! Similique repellendus molestias ab omnis enim deleniti?
-            <img class="img_N" src="https://www.quartzolit.weber/files/br/styles/768x432/public/2020-05/cinza%20%C3%A1rtico_6.jpg?itok=QN5kCyqs" class="img-fluid" alt="...">
+            <img class="img_N" src="..." class="img-fluid" alt="...">
             
         </div>  
         <hr>
@@ -35,9 +35,10 @@
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-                        <h3 class="card-title">Título</h3>
-                        <h4 class="card-title">Sub. Título</h4>
-                        <h5 class="card-text">Data:27/07/2006</h5>
+                        <h3 class="card-title text-center">Título</h3>
+                        <h4 class="card-title text-center">Sub. Título</h4>
+                        <h5 class="card-text text-center">Data:27/07/2006</h5>
+                        <a href="#" class="text-decoration-none text-end">Ler mais</a>
                      </div>
                 </div>
             </div>
@@ -50,9 +51,10 @@
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-                        <h3 class="card-title">Título</h3>
-                        <h4 class="card-text">Sub. Título</h4>
-                        <h5 class="card-text">Data:27/07/2006</h5>
+                        <h3 class="card-title text-center">Título</h3>
+                        <h4 class="card-text text-center">Sub. Título</h4>
+                        <h5 class="card-text text-center">Data:27/07/2006</h5>
+                        <a href="#" class="text-decoration-none text-end">Ler mais</a>
                      </div>
                 </div>
             </div>
@@ -65,9 +67,10 @@
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-                        <h3 class="card-title">Título</h3>
-                        <h4 class="card-text">Sub. Título</h4>
-                        <h5 class="card-text">Data:27/07/2006</h5>
+                        <h3 class="card-title text-center">Título</h3>
+                        <h4 class="card-text text-center">Sub. Título</h4>
+                        <h5 class="card-text text-center">Data:27/07/2006</h5>
+                        <a href="#" class="text-decoration-none text-end">Ler mais</a>
                      </div>
                 </div>
             </div>
