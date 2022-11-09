@@ -14,22 +14,24 @@
     ?>
     
     <main>
-        <h1>Título Chamativo<h1>
-        <h3>Sub. Título<h3>
-        <h5>Data:27/07/2006<h5>
-        <hr>
-        <img src="..." class="img-fluid" alt="...">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim a massa auctor accumsan. Ut dui nibh, ullamcorper nec feugiat a, eleifend sed eros. Suspendisse ultricies quam ut risus vehicula maximus. Suspendisse sed posuere massa. Ut sed interdum mauris. Sed scelerisque consectetur dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec nec mi ligula. Praesent at dolor eu urna bibendum dignissim a nec felis.</p>
-        <img src="..." class="rounded float-end" alt="...">
-        <p>Praesent at eros quis mauris faucibus tincidunt dictum quis libero. Nullam sit amet lectus et massa luctus ultrices. Etiam efficitur feugiat neque. Nunc arcu quam, lacinia sed augue eget, pharetra condimentum neque. Praesent tincidunt fermentum metus a eleifend. Quisque sollicitudin ornare ipsum sed consectetur. Donec non pharetra neque, vitae maximus leo. Mauris tristique et est a semper. In aliquam felis eu tortor consectetur pulvinar. Nullam aliquet neque vel bibendum elementum. Nunc tincidunt malesuada consectetur. Integer magna dolor, auctor et lectus et, iaculis condimentum ante. Pellentesque nisl purus, aliquam ut lorem malesuada, molestie luctus orci. Donec commodo facilisis aliquam. Nulla mollis placerat augue, ut elementum leo dapibus at.</p>
-        <img src="..." class="img-fluid" alt="...">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure sapiente excepturi quae atque exercitationem molestiae eligendi consequuntur quibusdam ipsa repudiandae nostrum at earum consectetur, possimus optio odit corporis! Eaque,Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae ab sunt tenetur libero asperiores laboriosam iusto quisquam ipsa enim doloribus magni aliquid veritatis perferendis eligendi, esse praesentium minus iure quam!</p>
+        <div>
+            <h1 class="text-center">Título Chamativo<h1>
+            <h3 class="text-center">Sub. Título<h3>
+            <h6>Data:27/07/2006<h5>
+            <hr>
+            <img class="img_N" src="https://www.quartzolit.weber/files/br/styles/768x432/public/2020-05/cinza%20%C3%A1rtico_6.jpg?itok=QN5kCyqs" class="img-fluid" alt="...">
+            <img src="https://www.ladrilar.com.br/wp-content/uploads/2020/12/cinza-escuro.png" class="rounded float-end" alt="...">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam tempore sequi perferendis consequatur perspiciatis delectus iure ducimus blanditiis iste omnis suscipit voluptatem facere eaque earum ut, ea debitis repudiandae! Assumenda! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus, inventore deleniti provident atque rem ex aliquam perferendis temporibus, doloremque delectus placeat quis dolore dicta saepe voluptatem accusantium dolorum architecto iste!Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe doloribus ea quidem magnam maiores iure. Voluptas dolores architecto porro eum accusantium dolorum sint, quo nobis voluptatum adipisci similique unde laboriosam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab excepturi aliquid velit dolor, esse nemo commodi recusandae quam aliquam molestiae perferendis voluptatum nesciunt iusto iste officia aut adipisci possimus. Odio! Lorem ipsum dolor sit amet consectetur adipisicing.
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis molestias accusamus officia blanditiis tempora reiciendis quasi, nulla error quo! Saepe eius obcaecati laborum magnam itaque tempore perspiciatis voluptatum minus quasi?Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae possimus atque, quae facere quo soluta obcaecati mollitia est corporis delectus repellendus sint consequatur! Similique repellendus molestias ab omnis enim deleniti?
+            <img class="img_N" src="https://www.quartzolit.weber/files/br/styles/768x432/public/2020-05/cinza%20%C3%A1rtico_6.jpg?itok=QN5kCyqs" class="img-fluid" alt="...">
+            
+        </div>  
         <hr>
 
-        <div class="card mb-3" style="max-width: 540px;">
+        <div class="card mb-3" style="max-width: 540px;" style="width: 200px;">
             <div class="row g-0">
                 <div class="col-md-4">
-                    <img src="..." class="img-fluid rounded-start" alt="...">
+                    <img src="https://www.ladrilar.com.br/wp-content/uploads/2020/12/cinza-escuro.png" class="img-fluid rounded-start" alt="...">
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
@@ -44,7 +46,7 @@
         <div class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
                 <div class="col-md-4">
-                    <img src="..." class="img-fluid rounded-start" alt="...">
+                    <img src="https://www.ladrilar.com.br/wp-content/uploads/2020/12/cinza-escuro.png" class="img-fluid rounded-start" alt="...">
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
@@ -59,7 +61,7 @@
         <div class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
                 <div class="col-md-4">
-                    <img src="..." class="img-fluid rounded-start" alt="...">
+                    <img src="https://www.ladrilar.com.br/wp-content/uploads/2020/12/cinza-escuro.png" class="img-fluid rounded-start" alt="...">
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
