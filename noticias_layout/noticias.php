@@ -13,8 +13,9 @@
         include_once 'C:\xampp\htdocs\2022-1M-jornal-G7\header-footer\header.php';
     ?>
     
-    <main>
-        <div>
+    <main class="row">
+        <div class="col-1"></div>
+        <div class="col-10 ">
             <h1 class="text-center"><b>Título Chamativo</b><h1>
             <h3 class="text-center">Sub. Título<h3>
             <h6>Data:27/07/2006<h5>
@@ -27,51 +28,52 @@
             
         </div>  
         <hr>
-
-        <div class="card mb-3" style="max-width: 540px;" style="width: 200px;">
-            <div class="row g-0">
-                <div class="col-md-4">
-                    <img src="https://www.ladrilar.com.br/wp-content/uploads/2020/12/cinza-escuro.png" class="img-fluid rounded-start" alt="...">
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h3 class="card-title text-center">Título</h3>
-                        <h4 class="card-title text-center">Sub. Título</h4>
-                        <h5 class="card-text text-center">Data:27/07/2006</h5>
-                        <a href="#" class="text-decoration-none text-end">Ler mais</a>
-                     </div>
-                </div>
-            </div>
-        </div>
-        <hr>
-        <div class="card mb-3" style="max-width: 540px;">
-            <div class="row g-0">
-                <div class="col-md-4">
-                    <img src="https://www.ladrilar.com.br/wp-content/uploads/2020/12/cinza-escuro.png" class="img-fluid rounded-start" alt="...">
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h3 class="card-title text-center">Título</h3>
-                        <h4 class="card-text text-center">Sub. Título</h4>
-                        <h5 class="card-text text-center">Data:27/07/2006</h5>
-                        <a href="#" class="text-decoration-none text-end">Ler mais</a>
-                     </div>
+        <div class="row">
+            <div class="card mb-3" style="max-width: 540px;" style="width: 200px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="https://www.ladrilar.com.br/wp-content/uploads/2020/12/cinza-escuro.png" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h3 class="card-title text-center">Título</h3>
+                            <h4 class="card-title text-center">Sub. Título</h4>
+                            <h5 class="card-text text-center">Data:27/07/2006</h5>
+                            <a href="#" class="text-decoration-none text-end">Ler mais</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-        <hr>
-        <div class="card mb-3" style="max-width: 540px;">
-            <div class="row g-0">
-                <div class="col-md-4">
-                    <img src="https://www.ladrilar.com.br/wp-content/uploads/2020/12/cinza-escuro.png" class="img-fluid rounded-start" alt="...">
+            <hr>
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="https://www.ladrilar.com.br/wp-content/uploads/2020/12/cinza-escuro.png" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h3 class="card-title text-center">Título</h3>
+                            <h4 class="card-text text-center">Sub. Título</h4>
+                            <h5 class="card-text text-center">Data:27/07/2006</h5>
+                            <a href="#" class="text-decoration-none text-end">Ler mais</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h3 class="card-title text-center">Título</h3>
-                        <h4 class="card-text text-center">Sub. Título</h4>
-                        <h5 class="card-text text-center">Data:27/07/2006</h5>
-                        <a href="#" class="text-decoration-none text-end">Ler mais</a>
-                     </div>
+            </div>
+            <hr>
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="https://www.ladrilar.com.br/wp-content/uploads/2020/12/cinza-escuro.png" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h3 class="card-title text-center">Título</h3>
+                            <h4 class="card-text text-center">Sub. Título</h4>
+                            <h5 class="card-text text-center">Data:27/07/2006</h5>
+                            <a href="#" class="text-decoration-none text-end">Ler mais</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
