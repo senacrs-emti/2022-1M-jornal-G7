@@ -8,18 +8,3 @@
     display: flex;
     justify-content: center;
 }
-.m-1{
-    margin: 15%;
-}
-.img_N{
-    height: auto;
-    width: 105%;
-}
-.float-end {
-    float: right!important;
-    margin-top: 4%;
-    width: 31%;
-}
-p{
-    margin-top: 2%;
-}
