@@ -27,8 +27,7 @@
                         <div class="card-body">
                             <h3 class="card-title text-center">Título</h3>
                             <h4 class="card-title text-center">Sub. Título</h4>
-                            <h5 class="card-text text-center">Data:27/07/2006</h5>
-                            <a href="#" class="text-decoration-none text-end">Ler mais</a>
+                            <a href="#" class="stretched-link">Ler mais</a>
                         </div>
                     </div>
                 </div>
@@ -43,8 +42,7 @@
                         <div class="card-body">
                             <h3 class="card-title text-center">Título</h3>
                             <h4 class="card-text text-center">Sub. Título</h4>
-                            <h5 class="card-text text-center">Data:27/07/2006</h5>
-                            <a href="#" class="text-decoration-none text-end">Ler mais</a>
+                            <a href="#" class="stretched-link">Ler mais</a>
                         </div>
                     </div>
                 </div>
@@ -59,8 +57,7 @@
                         <div class="card-body">
                             <h3 class="card-title text-center">Título</h3>
                             <h4 class="card-text text-center">Sub. Título</h4>
-                            <h5 class="card-text text-center">Data:27/07/2006</h5>
-                            <a href="#" class="text-decoration-none text-end">Ler mais</a>
+                            <a href="#" class="stretched-link">Ler mais</a>
                         </div>
                     </div>
                 </div>
