@@ -3,8 +3,7 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
-
-#container-article {
-    display: flex;
-    justify-content: center;
+.img_w100{
+    width: 90%;
+    margin-left: 5%;
 }
