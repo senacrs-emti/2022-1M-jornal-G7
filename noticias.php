@@ -16,7 +16,9 @@
             
         </div>  
         <hr>
-        <div class="row">
+    </main>
+    
+    <div class="row">
             <div class="card mb-3" style="max-width: 540px;" style="width: 200px;">
                 <div class="row g-0">
                     <div class="col-md-4">
@@ -62,7 +64,7 @@
                 </div>
             </div>
         </div>
-    </main>
+
     <?php
     include_once '_footer.php';
     ?>
