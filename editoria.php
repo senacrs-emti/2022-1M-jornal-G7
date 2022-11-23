@@ -1,6 +1,6 @@
 
     <?php
-        include_once './header-footer/header.php';
+        include_once 'header.php';
         ?>  
     <main>
         <img src="..." class="img-fluid" alt="...">
