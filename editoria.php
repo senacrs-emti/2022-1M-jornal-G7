@@ -1,7 +1,7 @@
 
     <?php
-        include_once './header-footer/header.php';
-        ?>  
+        include_once '_header.php';
+    ?>  
     <main>
         <img src="..." class="img-fluid" alt="...">
             <div id='div1'>
@@ -28,6 +28,6 @@
            
         </div>
     </main>
-    <script src="script.js"></script>
+    <script src="./assets/script.js"></script>
   </body>
 </html>

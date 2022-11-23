@@ -1,5 +1,5 @@
 
-<footer class="container-fluid text-white bg-dark">
+    <footer class="container-fluid text-white bg-dark">
         <div class="row pt-5 pb-5">
             <section class="col-md-3">
                 <h3>REDES SOCIAIS</h3>
@@ -32,6 +32,6 @@
     <link rel="stylesheet" href="assets/_footer.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/2af69fbc9f.js" crossorigin="anonymous"></script>
-    <script src="script.js"></script>
+    <script src="./assets/script.js"></script>
   </body>
 </html>
