@@ -1,6 +1,6 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -13,7 +13,7 @@
   </head>
   <body>
     <header>
-      <img src="imgs/logo-site.png" alt="" srcset="">
+      <img src="includes/logo-site.png" alt="" srcset="">
       <h1>MUNDO ECONÔMICO</h1>
       <input type="text" placeholder="pesquisa">
       <button>Entrar</button>
