@@ -10,7 +10,7 @@
   </head>
   <body>
     <?php
-        include_once 'C:\xampp\htdocs\2022-1M-jornal-G7\header-footer\header.php';
+        include_once 'header.php';
     ?>
     
     <main class="row">
