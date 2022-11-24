@@ -1,6 +1,6 @@
 
     <footer class="container-fluid text-white bg-dark">
-        <div class="row pt-5 pb-5">
+        <div class="row pt-4 pb-4">
             <section class="col-md-3">
                 <h3>REDES SOCIAIS</h3>
                 <ul class="nav">

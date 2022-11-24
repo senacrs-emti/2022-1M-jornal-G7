@@ -5,7 +5,6 @@
     <main>
         <img id="propaganda" src="assets/img/propaganda.png" class="img-fluid" alt="...">
             <div id='div1'>
-                    <nav aria-label="breadcrumb">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
