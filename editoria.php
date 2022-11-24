@@ -3,7 +3,7 @@
         include_once '_header.php';
     ?>  
     <main>
-        <img src="..." class="img-fluid" alt="...">
+        <img id="propaganda" src="assets/img/propaganda.png" class="img-fluid" alt="...">
             <div id='div1'>
                     <nav aria-label="breadcrumb">
                 <nav aria-label="breadcrumb">
