@@ -25,6 +25,18 @@ header h1{
     position: relative;
     top: 13px;
 }
+header h1:hover{
+    color: blue;
+    text-decoration: none;
+}
+header a{
+    text-decoration: none;
+    color: black;
+}
+header a:hover{
+    color: blue;
+    text-decoration: none;
+}
 header input{
     background-image: url(img/lupa.png);
     background-position: right;

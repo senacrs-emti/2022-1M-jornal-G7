@@ -9,11 +9,12 @@
     <link rel="stylesheet" href="./assets/_footer.css">
     <link rel="stylesheet" href="./assets/noticias.css">
     <link rel="stylesheet" href="./assets/editoria.css">
+    <link rel="stylesheet" href="./assets/style.css">
   </head>
   <body>
-    <header >
+    <header>
       <img src="assets/img/logo-site.png" alt="" srcset="">
-      <h1>MUNDO ECONÔMICO</h1>
+      <a href="index.php"><h1>MUNDO ECONÔMICO</h1></a>
       <input type="text" placeholder="pesquisa" style="padding:0;">
       <button>Entrar</button>
     </header>

@@ -27,7 +27,7 @@
                 <div class="col-sm-6">
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                            <span class="input-group-text">De</span>
+                            <span class="input-group-text">Para</span>
                         </div>
                         <select class="form-control from" id="sel1">
                             <option value="">Escolha um …</option>
@@ -90,7 +90,7 @@
                 <div class="col-sm-6">
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                            <span class="input-group-text">Para</span>
+                            <span class="input-group-text">De</span>
                         </div>
                         <select class="form-control to" id="sel2">
                             <option value="">Escolha um …</option>
