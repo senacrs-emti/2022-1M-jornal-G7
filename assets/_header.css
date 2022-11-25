@@ -21,7 +21,7 @@ header h1{
     color: rgb(184, 181, 181);
     font-size: 60px;
     font-family: 'Times New Roman', Times, serif;
-    left: 60px;
+    left: 50px;
     position: relative;
     top: 13px;
 }
@@ -32,7 +32,7 @@ header input{
     background-repeat: no-repeat;
     background-size: contain;
     height: 35px;
-    left: 85px;
+    left: 70px;
     min-width: 300px;
     padding: 15px;
     position: relative;
@@ -40,11 +40,16 @@ header input{
     top: 31px;
     width: auto;
 }
+header input::placeholder{
+    position: relative;
+    left: 15px;
+}
 header button{
     background-color: red;
+    border-radius: 10px;
     font-size: 20px;
     height: 50px;
-    left: 115px;
+    left: 100px;
     padding: 10px;
     position: relative;
     top: 25px;

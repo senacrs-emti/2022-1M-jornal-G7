@@ -2,12 +2,12 @@
         include_once '_header.php';
     ?>
     <div class="d-flex justify-content-center">
-        <img src="assets\img\Marcos-Mion-sera-garoto-propaganda-da-TIM.jpg" alt="..." id="imgMAIN">
+        <img src="assets\img\propaganda-da-TIM.jpg" alt="..." id="imgMAIN">
     </div>
     <main id="notMAIN">
         <div>
-            <h1 class="text-center"><b>Título Chamativo</b><h1>
-            <h3 class="text-center">Sub. Título<h3>
+            <h1 class="text-center"><b>Elon Musk compra o Twitter</b><h1>
+            <h3 class="text-center">Elon Musk compra o Twitter<h3>
             <h6>Data:27/07/2006<h5>
             <hr>
             <img class="notIMG" src="https://img.olhardigital.com.br/wp-content/uploads/2018/09/20180903133856-860x450.jpg" alt="...">
