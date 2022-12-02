@@ -69,11 +69,12 @@ header button{
 }
 #navED{
     background-color: gray;
-    display: flex;
+    display: flexbox;
     height: auto;
     padding: 15px;
     position: relative;
     width: auto; 
+    justify-content: space-around;
 }
 #navED a {
     color: black;
