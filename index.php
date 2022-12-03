@@ -1,7 +1,7 @@
 <?php
     include_once "_header.php"
 ?>
-<main class=".container">
+<main class="container">
     <div class="row justify-content-center pt-5 pb-5">
         <div id="carouselExampleIndicators" class="carousel slide w-50 h-auto" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -30,9 +30,9 @@
             </a>
         </div>
     </div>
-    <div class="row justify-content-center pb-5 pt-3">
+    <div class="row justify-content-center pb-3 pt-3">
         <div class="col-md-4">
-            <img class="w-100 h-auto" src="https://www.aspect-ratios.com/file/2020/12/4-3-aspect-ratio.png" alt="">
+            <img class="w-100 h-auto rounded" src="https://www.aspect-ratios.com/file/2020/12/4-3-aspect-ratio.png" alt="">
         </div>
         <div class="col-6">
             <h1 class="...">Titulo</h1>
@@ -41,9 +41,29 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam dolorum aperiam eveniet quae commodi quod voluptatibus officiis fugit accusantium est. Voluptas natus maiores assumenda sequi quos, alias minima sapiente sint?</p>
         </div>
     </div>
+    <div class="container mb-5">
+        <div class="row justify-content-between">
+            <div class="col-6">
+                <div class="col-sm-4">
+                    <img class="w-100 float-left rounded" src="https://www.aspect-ratios.com/file/2020/12/4-3-aspect-ratio.png" alt="">
+                </div>
+                <h3>Titulo</h3>
+                <h4>Sub titulo</h4>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate ea quam eligendi expedita? Nulla eligendi, optio, repellendus molestiae dolor ad reprehenderit consequuntur excepturi reiciendis ipsum cumque tenetur voluptas. Maxime, accusantium.</p>
+            </div>
+            <div class="col-6">
+                <div class="col-sm-4">
+                    <img class="w-100 float-left rounded" src="https://www.aspect-ratios.com/file/2020/12/4-3-aspect-ratio.png" alt="">
+                </div>
+                <h3>Titulo</h3>
+                <h4>Sub titulo</h4>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate ea quam eligendi expedita? Nulla eligendi, optio, repellendus molestiae dolor ad reprehenderit consequuntur excepturi reiciendis ipsum cumque tenetur voluptas. Maxime, accusantium.</p>
+            </div>
+        </div>
+    </div>
     <div class="row p-4">
         <div class="col-sm-2" id="main_index">
-            <img class="w-100 h-auto" src="https://www.aspect-ratios.com/file/2020/12/4-3-aspect-ratio.png" alt="">
+            <img class="w-100 h-auto rounded" src="https://www.aspect-ratios.com/file/2020/12/4-3-aspect-ratio.png" alt="">
         </div>
         <div class="col-4">
             <h1>Titulo</h1>
@@ -52,7 +72,7 @@
     </div>
     <div class="row p-4">
         <div class="col-sm-2" id="main_index">
-            <img class="w-100 h-auto" src="https://www.aspect-ratios.com/file/2020/12/4-3-aspect-ratio.png" alt="">
+            <img class="w-100 h-auto rounded" src="https://www.aspect-ratios.com/file/2020/12/4-3-aspect-ratio.png" alt="">
         </div>
         <div class="col-4">
             <h1>Titulo</h1>
@@ -61,19 +81,14 @@
     </div>
     <div class="row p-4">
         <div class="col-sm-2" id="main_index">
-            <img class="w-100 h-auto" src="https://www.aspect-ratios.com/file/2020/12/4-3-aspect-ratio.png" alt="">
+            <img class="w-100 h-auto rounded" src="https://www.aspect-ratios.com/file/2020/12/4-3-aspect-ratio.png" alt="">
         </div>
         <div class="col-4">
             <h1>Titulo</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae voluptatibus eveniet mollitia iusto. Debitis mollitia saepe sint esse optio, facere tempora error delectus tenetur excepturi adipisci! Nisi, iure iste.</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-6">
-            <h2>Moedas</h2>
         </div>
     </div>
 </main>
 <?php 
     include_once "_footer.php"
-?>
+    ?>
