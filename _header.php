@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="./assets/style.css">
   </head>
   <body>
-    <header>
+    <header style="width:100%!imporatant;display:flex;justify-content:center;">
       <img src="assets/img/logo-site.png" alt="" srcset="">
       <a href="index.php"><h1>MUNDO ECONÔMICO</h1></a>
       <input type="text" placeholder="pesquisa" style="padding:0;">

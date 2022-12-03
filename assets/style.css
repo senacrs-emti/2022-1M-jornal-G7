@@ -6,3 +6,9 @@ main section div{
 main section div section{
     color: grey;
 }
+
+a:hover{
+    color: none;
+    text-decoration: none;
+    color: rgb(221, 221, 221);
+}
